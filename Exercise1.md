@@ -6,7 +6,7 @@ In other words, particles are not interacting yet. The goal of this exercise is 
 
 <img src="https://render.githubusercontent.com/render/math?math=U=\sum_{i,j>i} u(r_{ij})">
 
-<img src="https://render.githubusercontent.com/render/math?math=u(r)=1/r^{12} - 1/r^6">
+<img src="https://render.githubusercontent.com/render/math?math=u(r)=4(1/r^{12} - 1/r^6)">
 
 <img src="https://render.githubusercontent.com/render/math?math=r_{ij}=|r_j-r_i|">
 
